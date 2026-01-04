@@ -1,0 +1,36 @@
+
+Medicine ID: 2
+Medicine Name: Brufen
+Medicine Price: 74
+Medicine Quantity: 38
+Medicine ManuDate: 38
+Medicine ExDate: 39
+ -----------------------------------------
+Medicine ID: 1
+Medicine Name: Disprin
+Medicine Price: 40
+Medicine Quantity: 45
+Medicine ManuDate: 20/5/2022
+Medicine ExDate: 29/7/2024
+ -----------------------------------------
+Medicine ID: 3
+Medicine Name: Calpol
+Medicine Price: 54
+Medicine Quantity: 54
+Medicine ManuDate: 14/4/2022
+Medicine ExDate: 12/5/2027
+ -----------------------------------------
+Medicine ID: 4
+Medicine Name: Panadol
+Medicine Price: 50
+Medicine Quantity: 674
+Medicine ManuDate: 3/5/2022
+Medicine ExDate: 5/6/2026
+ -----------------------------------------
+Medicine ID: 5
+Medicine Name: Risek
+Medicine Price: 60
+Medicine Quantity: 99
+Medicine ManuDate: 20/6/2022
+Medicine ExDate: 7/2/2027
+ -----------------------------------------
